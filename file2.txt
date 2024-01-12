@@ -2,3 +2,4 @@ Good bye!
 line from user2 
 another line from user1
 Critical bug fixed
+New line from user 2 - rebase test2
