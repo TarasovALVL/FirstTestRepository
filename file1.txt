@@ -2,3 +2,4 @@ Hellow world!!!!
 Good evening! (from breanch master)
 line from user2
 Some new feature1
+Line from user 1 - rebase
